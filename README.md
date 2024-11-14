@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HuraibQureshi
 - 👀 I’m interested in Analysing Data  
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me qureshihuraib@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also a Football player
